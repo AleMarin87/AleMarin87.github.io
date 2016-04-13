@@ -1,0 +1,97 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	text-align: left;
+	background-color: #A8518A;
+}
+
+article {
+	background-color: #A8518A;
+}
+
+footer {
+	background-color: #D2D3D5;
+}
+
+div, section {
+	background-color: #848688;
+}
+p {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 2em;
+	font-weight: normal;
+	font-style: normal;
+	color: #ffffff;
+	line-height: 1.2em;
+	margin: 2em;
+	padding:2em;
+}
+
+strong { 
+	font-weight: small-caps;
+}
+
+
+img {
+	width: 80%;
+	height: auto;
+	margin: 2em;
+	padding-top: 1em;
+}
+
+nav {
+	background-color: #A8518A;
+	font-family: 'Droid Sans', sans-serif;
+	text-decoration: none;
+	width: 60%;
+}
+
+a {
+	background-color: #A8518A;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: bold;
+	font-size: 2em;
+	color: white;
+	text-decoration: none;
+	margin: 2em;
+}
+a:hover {
+	background-color: #D2D3D5;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	margin: 2em;
+}
+
+.menu {
+	float: right;
+	text-decoration: none;
+	margin-top: 5em;
+	padding: 1em;
+	width: 60%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+#two_column {
+	background-color: #D2D3D5;
+	}
+
+.logo {
+	background-color: none;
+	padding: 1em;
+	float: left;
+	width: 25%
+}
+
+
+
+
