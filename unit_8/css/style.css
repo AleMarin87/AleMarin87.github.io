@@ -35,10 +35,11 @@ strong {
 
 
 img {
-	width: 80%;
+	width: 90%;
 	height: auto;
 	margin: 2em;
 	padding-top: 1em;
+	float: center;
 }
 
 nav {
@@ -55,7 +56,7 @@ a {
 	font-size: 2em;
 	color: white;
 	text-decoration: none;
-	margin: 2em;
+	margin: 1em;
 }
 a:hover {
 	background-color: #D2D3D5;
