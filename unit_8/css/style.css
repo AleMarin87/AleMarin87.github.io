@@ -144,11 +144,13 @@ a:hover {
 	.me {
 		float: none;
 		margin: 1em;
+		padding: 1em;
 		width: 100%;
 	}
 	.collage {
 		float: none;
 		margin: 1em;
+		padding: 0.5em;
 		width: 100%;
 	}
 
