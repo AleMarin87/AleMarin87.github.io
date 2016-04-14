@@ -14,8 +14,8 @@ article {
 footer {
 	background-color: #D2D3D5;
 	padding-top: 10em;
-	margin-top: 10em;
-	height: 2em;
+	margin-top: 2em;
+	height: 3em;
 }
 
 div, section {
@@ -100,9 +100,5 @@ a:hover {
 	margin:1em;
 	float: left;
 	width: 30%;
-}
-
-.foot {
-	float: right;
 }
 
