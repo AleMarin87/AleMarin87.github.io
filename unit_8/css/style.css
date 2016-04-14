@@ -5,6 +5,7 @@
 body {
 	text-align: left;
 	background-color: #848688;
+	width: 100%;
 }
 
 article {
@@ -23,7 +24,6 @@ footer {
 	color: 000;
 	font-size: 1em;
 }
-
 
 div, section {
 	background-color: #848688;
@@ -89,6 +89,7 @@ a:hover {
 
 #two_column {
 	background-color: #D2D3D5;
+	width: 90%;
 	}
 
 .logo {
