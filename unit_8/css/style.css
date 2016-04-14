@@ -29,14 +29,14 @@ div, section {
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 2em;
+	font-size: 16px;
 	font-weight: normal;
 	font-style: normal;
 	color: 000;
 	float: left;
 	line-height: 1.2em;
-	margin: 1em;
-	padding: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
 }
 
 strong { 
@@ -57,14 +57,14 @@ a {
 	font-size: 1.2em;
 	color: white;
 	text-decoration: none;
-	margin: 0.5em;
+	margin: 1em;
 }
 a:hover {
 	background-color: #D2D3D5;
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	margin: 1em;
+	margin: 2em;
 }
 
 .menu {
@@ -90,20 +90,21 @@ a:hover {
 
 .logo {
 	background-color: none;
+	margin: 1em
 	padding: 1em;
 	float: left;
 	width: 25%
 }
 
 .collage {
-	padding: 1em;
+	padding: 1.5em;
 	float: right;
 	width: 65%;
 }
 
 .me {
 	background-color: #D2D3D5;
-	padding: 5em;
+	padding: 1em;
 	margin:1em;
 	float: left;
 	width: 30%;
