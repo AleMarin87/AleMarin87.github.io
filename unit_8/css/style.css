@@ -93,6 +93,18 @@ a:hover {
 	width: 25%
 }
 
+.collge {
+	padding: 2em;
+	float: right;
+	width: 60%;
+}
 
+.me {
+	background-color: #D2D3D5;
+	padding: 2em;
+	margin:1em;
+	float: left;
+	width: 25%;
+}
 
 
