@@ -28,6 +28,7 @@ footer {
 div, section {
 	background-color: #848688;
 	padding: 1.5em;
+	width: 100%;
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
