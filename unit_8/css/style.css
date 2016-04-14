@@ -17,13 +17,6 @@ footer {
 	height: 3em;
 }
 
-.contact {
-	margin: 1em;
-	padding:1.5em;
-	color: 000;
-	font-size: 1em;
-}
-
 div, section {
 	background-color: #848688;
 	padding: 1em;
@@ -129,7 +122,7 @@ a:hover {
 	}
 }
 
-@media (min-width: 900px) {
+@media (max-width: 900px) {
 	a {
 		font-size: 0.9em;
 	}
