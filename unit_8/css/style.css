@@ -20,14 +20,14 @@ div, section {
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 2em;
+	font-size: 1.2em;
 	font-weight: normal;
 	font-style: normal;
 	color: 000;
 	float: left;
 	line-height: 1.2em;
 	margin: 1em;
-	padding:2em;
+	padding: 1em;
 }
 
 strong { 
@@ -93,7 +93,7 @@ a:hover {
 
 .me {
 	background-color: #D2D3D5;
-	padding: 2em;
+	padding: 1em;
 	margin:1em;
 	float: left;
 	width: 30%;
