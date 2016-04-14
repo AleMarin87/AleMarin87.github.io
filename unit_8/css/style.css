@@ -4,7 +4,7 @@
 
 body {
 	text-align: left;
-	background-color: #A8518A;
+	background-color: #848688;
 }
 
 article {
@@ -20,7 +20,7 @@ div, section {
 }
 p {
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 1.2em;
+	font-size: 1.5em;
 	font-weight: normal;
 	font-style: normal;
 	color: 000;
@@ -86,7 +86,7 @@ a:hover {
 }
 
 .collage {
-	padding: 2em;
+	padding: 1em;
 	float: right;
 	width: 65%;
 }
