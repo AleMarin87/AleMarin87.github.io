@@ -90,8 +90,8 @@ a:hover {
 
 .logo {
 	background-color: none;
-	margin: 1em
-	padding: 1em;
+	margin-top: 1.5em
+	padding: 1.5em;
 	float: left;
 	width: 25%
 }
@@ -104,7 +104,7 @@ a:hover {
 
 .me {
 	background-color: #D2D3D5;
-	padding: 1em;
+	padding: 1.5em;
 	margin:1em;
 	float: left;
 	width: 30%;
