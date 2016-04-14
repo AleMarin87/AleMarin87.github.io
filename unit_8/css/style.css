@@ -101,7 +101,7 @@ a:hover {
 }
 
 .collage {
-	padding: 0.5em;
+	margin: 0.5em;
 	float: right;
 	width: 65%;
 }
@@ -109,7 +109,7 @@ a:hover {
 .me {
 	background-color: #D2D3D5;
 	padding: 1.5em;
-	margin:1em;
+	margin: 0.5em;
 	float: left;
 	width: 30%;
 }
