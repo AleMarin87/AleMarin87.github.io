@@ -5,7 +5,7 @@
 body {
 	text-align: left;
 	background-color: #848688;
-	}
+	width: 100%;}
 
 article {
 	background-color: #A8518A;
@@ -26,7 +26,7 @@ footer {
 
 div, section {
 	background-color: #848688;
-	padding: 1.5em;
+	padding: 1em;
 	width: 100%;
 }
 p {
@@ -37,7 +37,7 @@ p {
 	color: 000;
 	float: left;
 	line-height: 1.2em;
-	margin: 0.5em;
+	margin: 1em;
 	padding: 0.5em;
 }
 
@@ -107,7 +107,7 @@ a:hover {
 
 .me {
 	background-color: #D2D3D5;
-	margin: 0.1em;
+	margin: 0.5em;
 	float: left;
 	width: 30%;
 }
