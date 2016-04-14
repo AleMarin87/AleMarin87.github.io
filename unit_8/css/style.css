@@ -135,7 +135,7 @@ a:hover {
 	}
 	.menu {
 		padding: 0.1em;
-		margin-top: 1.5em;
+		margin-top: 2em;
 	}
 	.logo {
 		margin: 0.5em;
@@ -143,10 +143,12 @@ a:hover {
 	}
 	.me {
 		float: none;
+		margin: 1em;
 		width: 90%;
 	}
 	.collage {
 		float: none;
+		margin: 1em;
 		width: 90%;
 	}
 
