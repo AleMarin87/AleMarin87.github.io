@@ -24,8 +24,9 @@ p {
 	font-weight: normal;
 	font-style: normal;
 	color: #ffffff;
+	float: left;
 	line-height: 1.2em;
-	margin: 2em;
+	margin: 1em;
 	padding:2em;
 }
 
@@ -38,14 +39,14 @@ img {
 	width: 90%;
 	margin: 2em;
 	padding-top: 1em;
-	float: center;
+	float: right;
 }
 
 nav {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	text-decoration: none;
-	width: 60%;
+	width: 65%;
 }
 
 a {
@@ -62,7 +63,7 @@ a:hover {
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	margin: 1em;
+	margin: 1.5em;
 }
 
 .menu {
@@ -70,7 +71,7 @@ a:hover {
 	text-decoration: none;
 	margin-top: 5em;
 	padding: 1em;
-	width: 60%;
+	width: 65%;
 }
 .clearfix:after {
 	visibility: hidden;
