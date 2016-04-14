@@ -143,9 +143,11 @@ a:hover {
 	}
 	.me {
 		float: none;
+		width: 90%;
 	}
 	.collage {
 		float: none;
+		width: 90%;
 	}
 
 }
