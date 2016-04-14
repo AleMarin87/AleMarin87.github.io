@@ -54,24 +54,24 @@ a {
 	background-color: #A8518A;
 	font-family: 'Droid Sans', sans-serif;
 	font-weight: bold;
-	font-size: 1.5em;
+	font-size: 1em;
 	color: white;
 	text-decoration: none;
-	margin: 1em;
+	margin: 0.5em;
 }
 a:hover {
 	background-color: #D2D3D5;
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	margin: 1.5em;
+	margin: 1em;
 }
 
 .menu {
 	float: right;
 	text-decoration: none;
 	margin-top: 5em;
-	padding: 1em;
+	padding: 0.5em;
 	width: 65%;
 }
 .clearfix:after {
